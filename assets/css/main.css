@@ -304,6 +304,9 @@ img {
   .hide-md {
     display: none !important;
   }
+  .contact_form{
+    margin-top:150px ;
+  }
 }
 /* ----------------Responsive Align ------------------- */
 @media all and (max-width: 767px) {
@@ -2297,6 +2300,7 @@ opacity: 0;
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-title {
     font-size: 38px;
   }
+  
 }
 /*  ----------------------------------------------------
 5 icon boxes
